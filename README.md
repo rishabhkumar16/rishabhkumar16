@@ -1,7 +1,11 @@
 ## Hi there 👋
 <a target="_blank" href="https://rishabh16.me"><img  align="left" src="https://user-images.githubusercontent.com/61164064/97917606-b7b15580-1d7a-11eb-8ccd-6cd6b8993ae8.gif"></a>
 #### Lets Connect
-<a target="_blank" href="https://rishabh16.me"><img  align="left" src="https://user-images.githubusercontent.com/61164064/97919792-67d48d80-1d7e-11eb-8d5f-988d5b0e29a0.png"></a>
+<a target="_blank" href="https://rishabh16.me"><img  align="left" height="50" width="50" src="https://user-images.githubusercontent.com/61164064/97975166-b28dee00-1dee-11eb-8dac-ff4b6828400c.png"></a>
+<a target="_blank" href="https://rishabh16.me"><img  align="left" height="50" width="50" src="https://user-images.githubusercontent.com/61164064/97974858-38f60000-1dee-11eb-9767-3f6046b164e2.png"></a>
+<a target="_blank" href="https://rishabh16.me"><img  align="left" height="50" width="50" src="https://user-images.githubusercontent.com/61164064/97975307-f5e85c80-1dee-11eb-956f-5103b6ef4296.png"></a>
+<a target="_blank" href="https://rishabh16.me"><img  align="left" height="50" width="50" src="https://user-images.githubusercontent.com/61164064/97975445-27612800-1def-11eb-9743-1efd83e02c24.png"></a>
+<a target="_blank" href="https://rishabh16.me"><img  align="left" height="50" width="50" src="https://user-images.githubusercontent.com/61164064/97975649-760ec200-1def-11eb-9cff-deb6af7047b1.png"></a>
 
 
 <p align="center">
